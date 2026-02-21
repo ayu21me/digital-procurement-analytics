@@ -1,0 +1,14 @@
+CREATE DATABASE mydatabase;
+USE mydatabase;
+
+CREATE TABLE procurement (
+    order_id INT,
+    order_date DATETIME,
+    shipping_date DATETIME,
+    category_name VARCHAR(100),
+    order_quantity INT,
+    product_price FLOAT,
+    order_total FLOAT,
+    delivery_delay INT,
+    late_delivery_risk INT
+);
