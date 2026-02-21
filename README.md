@@ -69,6 +69,13 @@ digital-procurement-analytics/
 - Forecasted future demand trends
 
 ---
+## 📊 Business Impact
+
+- Identified high-risk late deliveries
+- Detected abnormal procurement patterns
+- Improved vendor evaluation process
+- Enabled data-driven procurement decisions
+---
 
 ## 💡 Learnings
 - End-to-end data analytics workflow
@@ -80,5 +87,6 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
