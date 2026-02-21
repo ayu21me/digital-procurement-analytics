@@ -6,6 +6,17 @@ This project is an AI-driven procurement analytics system designed to analyze pu
 It helps organizations make data-driven procurement decisions.
 
 ---
+## 💼 Business Problem
+
+Procurement teams face challenges such as:
+- Unpredictable demand
+- Vendor delays
+- Overspending
+
+This system helps organizations:
+- Reduce late deliveries
+- Identify unreliable vendors
+- Optimize procurement costs
 
 ## 🎯 Objectives
 - Analyze procurement and sales data
@@ -69,4 +80,5 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
