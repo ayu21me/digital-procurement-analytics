@@ -25,9 +25,13 @@ It helps organizations make data-driven procurement decisions.
 ---
 
 ## 📂 Project Structure
+digital-procurement-analytics/
+│── data/ # Raw & processed datasets
+│── notebooks/ # Jupyter notebooks
+│── sql/ # SQL queries
+│── README.md
 
 ---
-
 ## 🔍 Key Features
 
 ### 📊 Data Analysis
@@ -65,3 +69,4 @@ It helps organizations make data-driven procurement decisions.
 
 ## 👨‍💻 Author
 Ayush Yadav
+
