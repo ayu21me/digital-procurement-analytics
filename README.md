@@ -63,10 +63,11 @@ digital-procurement-analytics/
 ---
 
 ## 📌 Key Insights
+- Total procurement volume exceeded ₹33M across 180K+ transactions.
 - Average procurement spend: **₹893,362**
-- Detected anomalies in transactions
-- Around 54% of the products were under the late delivery risk and Average delay was 3.47 days.
-- Forecasted future demand trends
+- Around 64% of the products were under the late delivery risk and Average delay was 3.47 days.
+- Fishing, Cleats, and Camping & Hiking categories accounted for the highest procurement spending.
+- Several product categories such as Strength Training equipment,Soccer product and Electronics-related items exhibited consistently higher delivery delays
 
 ---
 ## 📊 Business Impact
@@ -87,6 +88,7 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
