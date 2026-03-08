@@ -36,7 +36,7 @@ This system helps organizations:
 ---
 ## 📊 Dataset
 
-The dataset contains **180,520 procurement transactions** from an e-commerce supply chain system.
+The dataset contains **180K+ procurement transactions** from an e-commerce supply chain system.
 
 Key fields include:
 
@@ -121,6 +121,7 @@ Dashboard highlights:
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
