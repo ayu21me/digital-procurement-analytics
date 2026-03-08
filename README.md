@@ -65,7 +65,7 @@ digital-procurement-analytics/
 ## 📌 Key Insights
 - Average procurement spend: **₹893,362**
 - Detected anomalies in transactions
-- Identified high-risk delivery delays
+- Around 54% of the products were under the late delivery risk and Average delay was 3.47 days.
 - Forecasted future demand trends
 
 ---
@@ -87,6 +87,7 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
