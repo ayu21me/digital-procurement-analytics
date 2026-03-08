@@ -34,6 +34,23 @@ This system helps organizations:
 - Excel (Data Validation & Exploration)
 
 ---
+## 📊 Dataset
+
+The dataset contains **180,520 procurement transactions** from an e-commerce supply chain system.
+
+Key fields include:
+
+- Order ID
+- Product Category
+- Supplier
+- Order Date
+- Delivery Date
+- Order Value
+- Delivery Status
+
+The dataset enables analysis of procurement spending patterns, supplier efficiency, and delivery performance.
+
+---
 
 ## 📂 Project Structure
 digital-procurement-analytics/
@@ -63,15 +80,14 @@ digital-procurement-analytics/
 ---
 
 ## 📌 Key Insights
-- Total procurement volume exceeded ₹33M across 180K+ transactions.
-- Average procurement spend: **₹893,362**
-- Around 64% of the products were under the late delivery risk and Average delay was 3.47 days.
-- Fishing, Cleats, and Camping & Hiking categories accounted for the highest procurement spending.
-- Several product categories such as Strength Training equipment,Soccer product and Electronics-related items exhibited consistently higher delivery delays
-
+- Total procurement volume exceeded **₹33M across 180K+ transactions**.
+- Around **63% of deliveries were late**, indicating supply chain inefficiencies.
+- Average delivery delay across orders was **3.47 days**.
+- **Fishing, Cleats, and Camping & Hiking** categories accounted for the highest procurement spending.
+- Certain categories such as **Strength Training equipment, Soccer products, and Electronics** experienced consistently higher delivery delays.
 ---
-## 📊 Business Impact
 
+## 📊 Business Impact
 - Identified high-risk late deliveries
 - Detected abnormal procurement patterns
 - Improved vendor evaluation process
@@ -88,6 +104,7 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
