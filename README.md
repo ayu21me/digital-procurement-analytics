@@ -78,6 +78,17 @@ digital-procurement-analytics/
 - Vendor performance evaluation
 
 ---
+## 📊 Dashboard
+
+An interactive **Power BI dashboard** was developed to visualize procurement insights.
+
+Dashboard highlights:
+
+- Total procurement spending
+- Delivery performance (Late vs On-time)
+- Sales trend over time
+- Category-wise procurement distribution
+- Average delivery delay by category
 
 ## 📌 Key Insights
 - Total procurement volume exceeded **₹33M across 180K+ transactions**.
@@ -88,10 +99,11 @@ digital-procurement-analytics/
 ---
 
 ## 📊 Business Impact
-- Identified high-risk late deliveries
-- Detected abnormal procurement patterns
-- Improved vendor evaluation process
-- Enabled data-driven procurement decisions
+- Identified categories with the highest delivery delays.
+- Highlighted suppliers contributing to frequent late deliveries.
+- Detected abnormal procurement transactions using machine learning.
+- Enabled procurement teams to monitor KPIs through interactive dashboards.
+
 ---
 
 ## 💡 Learnings
@@ -104,6 +116,7 @@ digital-procurement-analytics/
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
