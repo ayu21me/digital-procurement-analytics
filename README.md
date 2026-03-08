@@ -60,6 +60,22 @@ digital-procurement-analytics/
 │── README.md
 
 ---
+
+## 📊 Dashboard
+
+An interactive **Power BI dashboard** was built to visualize procurement performance and delivery insights.
+
+Dashboard highlights:
+
+- Total procurement sales and transaction count
+- Delivery performance (Late vs On-time)
+- Category-wise procurement spending
+- Average delivery delay by category
+- Sales trend over time
+
+![Dashboard](dashboard/dashboard.png)
+
+  
 ## 🔍 Key Features
 
 ### 📊 Data Analysis
@@ -78,17 +94,6 @@ digital-procurement-analytics/
 - Vendor performance evaluation
 
 ---
-## 📊 Dashboard
-
-An interactive **Power BI dashboard** was developed to visualize procurement insights.
-
-Dashboard highlights:
-
-- Total procurement spending
-- Delivery performance (Late vs On-time)
-- Sales trend over time
-- Category-wise procurement distribution
-- Average delivery delay by category
 
 ## 📌 Key Insights
 - Total procurement volume exceeded **₹33M across 180K+ transactions**.
@@ -116,6 +121,7 @@ Dashboard highlights:
 
 ## 👨‍💻 Author
 Ayush Yadav
+
 
 
 
