@@ -53,11 +53,27 @@ The dataset enables analysis of procurement spending patterns, supplier efficien
 ---
 
 ## 📂 Project Structure
+
+```
 digital-procurement-analytics/
-│── data/ # Raw & processed datasets
-│── notebooks/ # Jupyter notebooks
-│── sql/ # SQL queries
-│── README.md
+│
+├── data/
+│   └── procurement_data.csv
+│
+├── notebooks/
+│   └── procurement_analysis.ipynb
+│
+├── sql/
+│   └── procurement_queries.sql
+│
+├── dashboard/
+│   └── procurement_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
+```
 
 ---
 
